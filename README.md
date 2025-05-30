@@ -1,2 +1,5 @@
-# csd-380
-Repo for DevOps material
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Nathan Braun
+- Anton DeCesare
